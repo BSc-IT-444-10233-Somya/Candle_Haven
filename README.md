@@ -20,11 +20,14 @@ The system also includes an admin panel that helps in managing products, orders,
 🔐 Secure user authentication system
 
 🛒 Smooth shopping and order process
+
 📊 Admin dashboard for product and order management
 
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP
+
 Database: MySQL
 
 🎯 Project Purpose
@@ -36,38 +39,55 @@ The main purpose of this project is to create a user-friendly e-commerce platfor
 👤 Customer
 
 Register / Login
+
 Browse products
+
 Customize candles
+
 Add to cart & place orders
 
 🛠️ Admin
 
 Manage products and categories
+
 Monitor and control orders
+
 Manage customer details
 
 🔒 Security Features
 
 User authentication using username and password
+
 Role-based access (Admin/User)
+
 Basic data protection
 
 🚀 How to Run the Project
 
 Install XAMPP / WAMP
+
 Copy the project folder into htdocs
+
 Start Apache and MySQL
+
 Import the database via phpMyAdmin
+
 Open browser and run:
+
 http://localhost/can
 
 🧑‍💻 How to Use
 
 Open the application in your browser
+
 Register a new account or login
+
 Browse available candles
+
 Choose customization options (if needed)
+
 Add products to cart
+
 Place your order
 
 Admin Use:
@@ -81,3 +101,7 @@ View and manage orders
 📸 Screenshots
 
 (Add your project screenshots here)
+
+
+
+👨‍💻 Developed by Somya Kumari
