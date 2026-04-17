@@ -101,7 +101,7 @@ View and manage orders
 
 📸 Screenshots
 
-https://github.com/BSc-IT-444-10233-Somya/Candle_Haven/blob/656842057f4131d24efc6419b9754853315013db/Screenshot%202026-04-17%20170744.png
+![image alt](https://github.com/BSc-IT-444-10233-Somya/Candle_Haven/blob/656842057f4131d24efc6419b9754853315013db/Screenshot%202026-04-17%20170744.png)
 
 
 
