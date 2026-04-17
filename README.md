@@ -1,5 +1,6 @@
 # Candle_Haven
 A web-based application for exploring and purchasing a variety of candles online. It features customized candle options, an easy-to-use interface, and an efficient system for managing products and orders, providing users with a smooth and interactive shopping experience
+
 🕯️ Candle Haven – Custom Candle Web Application
 
 Candle Haven is a dynamic web-based platform designed to provide users with a seamless online candle shopping experience. It allows customers to explore a wide range of candles and create personalized/custom candles based on their preferences such as color, design, and message.
@@ -13,8 +14,11 @@ The system also includes an admin panel that helps in managing products, orders,
 ✨ Key Highlights
 
 🛍️ Wide range of candle collections
+
 🎨 Personalized candle customization feature
+
 🔐 Secure user authentication system
+
 🛒 Smooth shopping and order process
 📊 Admin dashboard for product and order management
 
@@ -55,7 +59,7 @@ Copy the project folder into htdocs
 Start Apache and MySQL
 Import the database via phpMyAdmin
 Open browser and run:
-http://localhost/your-folder-name
+http://localhost/can
 
 🧑‍💻 How to Use
 
@@ -69,7 +73,9 @@ Place your order
 Admin Use:
 
 Login with admin credentials
+
 Add/Edit/Delete products
+
 View and manage orders
 
 📸 Screenshots
