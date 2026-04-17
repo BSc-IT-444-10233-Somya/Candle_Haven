@@ -11,15 +11,18 @@ This project is developed to simplify the process of buying candles online while
 The system also includes an admin panel that helps in managing products, orders, and users efficiently.
 
 ✨ Key Highlights
+
 🛍️ Wide range of candle collections
 🎨 Personalized candle customization feature
 🔐 Secure user authentication system
 🛒 Smooth shopping and order process
 📊 Admin dashboard for product and order management
+
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL
+
 🎯 Project Purpose
 
 The main purpose of this project is to create a user-friendly e-commerce platform that enhances customer experience by allowing them to both purchase and customize candles online.
